@@ -1,0 +1,25 @@
+name: Update Commit Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Agenda a execução diariamente
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Count Commits
+      id: count-commits
+      run: |
+        COMMIT_COUNT=$(git rev-list --count HEAD)
+        echo "COMMIT_COUNT=$COMMIT_COUNT" >> $GITHUB_ENV
+
+    - name: Update GitHub Profile
+      run: |
+        curl -X PATCH -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+          --data '{ "name": "Lucas-Gabriel0", "bio": "Total Commits: '"$COMMIT_COUNT"'" }' \
+          https://api.github.com/user
