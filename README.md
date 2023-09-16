@@ -1,4 +1,4 @@
-### Olá! Sou o Lucas Gabriel 👋
+### Hello! I'm Lucas Gabriel 👋
 
 <div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/Lucas-Gabriel0">
@@ -38,7 +38,6 @@
 ##  
 
 
-- 👨‍💻 Desenvolvedor de Apps com foco em React Native
-- 🎓 Estudante de Desenvolvimento Mobile
-- 🤝 Disposto a colaborar e contribuir com projetos relacionados ao desenvolvimento de aplicativos
-- 💬 Se você está procurando um desenvolvedor dedicado, focado em resultados e com interesse em aprender, entre em contato comigo!
+- 👨‍💻 Mobile developer with focus in React Native
+- 🤝 Willing to collaborate and contribute to projects related to app development.
+- 💬 If you are looking for a dedicated developer, focused on results, and interested in learning, please contact me!
