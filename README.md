@@ -35,6 +35,6 @@
 ##  
 
 
-- 👨‍💻 Mobile developer with focus in React Native
-- 🤝 Willing to collaborate and contribute to projects related to app development.
+- 👨‍💻 Software Developer with focus in front-end 
+- 🤝 Willing to collaborate and contribute to projects related to  web development.
 - 💬 If you are looking for a dedicated developer, focused on results, and interested in learning, please contact me!
