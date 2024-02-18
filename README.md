@@ -25,7 +25,7 @@
   <a href="mailto:devlukkas@gmail.com" style="text-decoration: none; border: 0; outline: none;">
     <img src="https://img.icons8.com/fluent/40/000000/gmail.png" alt="Gmail" style="max-width: 100%;">
   </a>
-  <a href="#" rel="nofollow" style="text-decoration: none; border: 0; outline: none;">
+  <a href="https://www.linkedin.com/in/lucas-soares-2428122a7/" rel="nofollow" style="text-decoration: none; border: 0; outline: none;">
     <img src="https://img.icons8.com/color/40/000000/linkedin.png" alt="LinkedIn" style="max-width: 100%;">
   </a>
 </div>
